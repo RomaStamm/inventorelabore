@@ -1,0 +1,31 @@
+{
+  "dist/jss-preset-default.js": {
+    "bundled": 55092,
+    "minified": 19597,
+    "gzipped": 6524
+  },
+  "dist/jss-preset-default.min.js": {
+    "bundled": 54330,
+    "minified": 19135,
+    "gzipped": 6310
+  },
+  "dist/jss-preset-default.cjs.js": {
+    "bundled": 1329,
+    "minified": 1116,
+    "gzipped": 389
+  },
+  "dist/jss-preset-default.esm.js": {
+    "bundled": 891,
+    "minified": 783,
+    "gzipped": 311,
+    "treeshaked": {
+      "rollup": {
+        "code": 366,
+        "import_statements": 366
+      },
+      "webpack": {
+        "code": 1716
+      }
+    }
+  }
+}

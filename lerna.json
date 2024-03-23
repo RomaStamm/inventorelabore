@@ -1,0 +1,10 @@
+{
+  "npmClient": "yarn",
+  "useWorkspaces": true,
+  "version": "10.0.0",
+  "command": {
+    "publish": {
+      "allow-branch": ["master"]
+    }
+  }
+}

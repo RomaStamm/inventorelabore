@@ -1,0 +1,31 @@
+{
+  "dist/jss-plugin-camel-case.js": {
+    "bundled": 2389,
+    "minified": 858,
+    "gzipped": 488
+  },
+  "dist/jss-plugin-camel-case.min.js": {
+    "bundled": 2389,
+    "minified": 858,
+    "gzipped": 488
+  },
+  "dist/jss-plugin-camel-case.cjs.js": {
+    "bundled": 1709,
+    "minified": 737,
+    "gzipped": 398
+  },
+  "dist/jss-plugin-camel-case.esm.js": {
+    "bundled": 1491,
+    "minified": 565,
+    "gzipped": 309,
+    "treeshaked": {
+      "rollup": {
+        "code": 29,
+        "import_statements": 29
+      },
+      "webpack": {
+        "code": 1013
+      }
+    }
+  }
+}
